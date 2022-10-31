@@ -6,56 +6,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://adclock.github.io/docs/license/</loc>
-         <lastmod>2022-10-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://adclock.github.io/docs/material-for-mkdocs/</loc>
-         <lastmod>2022-10-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://adclock.github.io/docs/extensions/code-hilite/</loc>
-         <lastmod>2022-10-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://adclock.github.io/docs/extensions/footnote/</loc>
-         <lastmod>2022-10-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://adclock.github.io/docs/extensions/mathjax/</loc>
-         <lastmod>2022-10-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://adclock.github.io/docs/getting-started/docker/</loc>
-         <lastmod>2022-10-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://adclock.github.io/docs/getting-started/download-boilerplate/</loc>
-         <lastmod>2022-10-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://adclock.github.io/docs/getting-started/invoke/</loc>
-         <lastmod>2022-10-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://adclock.github.io/docs/getting-started/pip/</loc>
-         <lastmod>2022-10-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://adclock.github.io/docs/getting-started/pipenv/</loc>
-         <lastmod>2022-10-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://adclock.github.io/docs/hardware/3d-druck/</loc>
          <lastmod>2022-10-31</lastmod>
          <changefreq>daily</changefreq>
@@ -77,31 +27,6 @@
     </url>
     <url>
          <loc>https://adclock.github.io/docs/hardware/verkabelung/</loc>
-         <lastmod>2022-10-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://adclock.github.io/docs/hosting-and-deployment/aws-amplify-console/</loc>
-         <lastmod>2022-10-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://adclock.github.io/docs/hosting-and-deployment/combinations/</loc>
-         <lastmod>2022-10-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://adclock.github.io/docs/hosting-and-deployment/github-pages/</loc>
-         <lastmod>2022-10-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://adclock.github.io/docs/hosting-and-deployment/gitlab-pages/</loc>
-         <lastmod>2022-10-31</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://adclock.github.io/docs/hosting-and-deployment/netlify/</loc>
          <lastmod>2022-10-31</lastmod>
          <changefreq>daily</changefreq>
     </url>
