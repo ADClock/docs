@@ -74,6 +74,9 @@ plugins:
       enable_creation_date: true 
   - minify:
       minify_html: true
+      htmlmin_opts:
+          remove_comments: true
+      cache_safe: true
 
 # Customization
 extra_javascript:
