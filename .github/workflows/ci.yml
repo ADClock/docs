@@ -13,14 +13,6 @@ on:
     types: [published]
 
 jobs:
-  hadolint:
-    runs-on: ubuntu-22.04
-    container:
-      image: "ghcr.io/hadolint/hadolint:v2.4.1-alpine"
-    steps:
-      - uses: actions/checkout@v3
-      - run: hadolint ./Dockerfile
-
   pipenv:
     runs-on: ubuntu-22.04
     steps:
