@@ -72,6 +72,8 @@ plugins:
         - de
   - git-revision-date-localized:
       enable_creation_date: true 
+  - minify:
+      minify_html: true
 
 # Customization
 extra_javascript:
