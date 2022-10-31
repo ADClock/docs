@@ -9,7 +9,7 @@
 # requirements. To emit only development requirements, pass "--dev-only".
 
 -i https://pypi.org/simple/
-click==8.0.1; python_version >= '3.6'
+click==8.1.3; python_version >= '3.6'
 ghp-import==2.1.0
 importlib-metadata==5.0.0; python_version >= '3.6'
 invoke==1.5.0
@@ -20,11 +20,11 @@ mergedeep==1.3.4; python_version >= '3.6'
 mkdocs-material-extensions==1.1; python_version >= '3.5'
 mkdocs-material==7.1.8
 mkdocs==1.2.1
-packaging==20.9; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'
+packaging==21.3; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'
 prompt-toolkit==3.0.18
 pygments==2.9.0
-pymdown-extensions==8.2; python_version >= '3.6'
-pyparsing==3.0.0b2; python_version >= '3.5'
+pymdown-extensions==9.7; python_version >= '3.6'
+pyparsing==3.0.9; python_version >= '3.5'
 python-dateutil==2.8.2; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'
 python-markdown-math==0.8
 pyyaml-env-tag==0.1; python_version >= '3.6'
