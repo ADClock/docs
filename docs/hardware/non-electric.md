@@ -1,0 +1,4 @@
+- Kugellager groß
+- Kugellager flach
+- Mestallstab
+- Schrauben (Platine, Motor-Halterungen, Uhren auf Holzbrett)
