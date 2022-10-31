@@ -6,6 +6,21 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://adclock.github.io/docs/example/test/</loc>
+         <lastmod>2022-10-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://adclock.github.io/docs/example/testo/</loc>
+         <lastmod>2022-10-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://adclock.github.io/docs/example/aero/aero/</loc>
+         <lastmod>2022-10-31</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://adclock.github.io/docs/hardware/3d-druck/</loc>
          <lastmod>2022-10-31</lastmod>
          <changefreq>daily</changefreq>
