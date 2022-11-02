@@ -4,7 +4,7 @@ url = "https://pypi.org/simple"
 verify_ssl = true
 
 [packages]
-mkdocs = "==1.4.1"
+mkdocs = "==1.4.2"
 mkdocs-material = "==8.2.11"
 mkdocs-minify-plugin = "==0.6.1"
 mkdocs-git-revision-date-localized-plugin = "==1.1.0"
